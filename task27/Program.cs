@@ -10,23 +10,16 @@ int Prompt(string message)
     return num;
 }
 
+int DrawNumbers(int value)
+{
+    int result = 0;
+    while(value > 0)
+    {
+        result = result + value % 10;
+        value = value / 10;
+    }
+    return result;
+}
 
-// int SymbolCountNumber(int num1);
-// {
-//     int count = 0;
-//     while (num1 > 0)
-//     {
-//         num1 = num1 / 10;
-//         count++;
-//     }
-//     return count;
-// }
-
-// void SumSymbolNumber(int a, int len)
-// {
-//     int sum = 0;
-//     for (int i = 0; i <= len; i++)
-//     {
-
-//     }
-// }
+int N = Prompt("Введите число: ");
+Console.WriteLine($"Сумма цифр числа {N} -> " + DrawNumbers(N));
