@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Alexei notebook\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\C#\\C#_Homework_4\\C-sharp-homework4\\task29\\task29.csproj",
+      "projectUniqueName": "F:\\GeekBrains\\3. Знакомство с языками программирования\\Семинары\\C#_Homework\\C#_Homework4\\C-sharp-homework4\\task29\\task29.csproj",
       "projectName": "task29",
-      "projectPath": "D:\\GeekBrains\\C#\\C#_Homework_4\\C-sharp-homework4\\task29\\task29.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrains\\C#\\C#_Homework_4\\C-sharp-homework4\\task29\\obj\\",
+      "projectPath": "F:\\GeekBrains\\3. Знакомство с языками программирования\\Семинары\\C#_Homework\\C#_Homework4\\C-sharp-homework4\\task29\\task29.csproj",
+      "packagesPath": "C:\\Users\\Alexei notebook\\.nuget\\packages\\",
+      "outputPath": "F:\\GeekBrains\\3. Знакомство с языками программирования\\Семинары\\C#_Homework\\C#_Homework4\\C-sharp-homework4\\task29\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Alexei notebook\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
